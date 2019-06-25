@@ -7,6 +7,10 @@
   font-family: 'Lobster', cursive;
 }
 
+.oswald-font{
+  font-size: large;
+}
+
 .carousel-item {
   height: 100vh;
   min-height: 350px;
