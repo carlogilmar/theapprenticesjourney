@@ -11,6 +11,14 @@
   font-size: large;
 }
 
+.pacific{
+  font-family: 'Pacifico', cursive;
+}
+
+.footer-font{
+  color: #757575; font-size: 15px;
+}
+
 .carousel-item {
   height: 100vh;
   min-height: 350px;
