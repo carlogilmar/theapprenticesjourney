@@ -1,3 +1,14 @@
+.nav_color{
+  background-color: #ffffff;
+}
+
+.font_header {
+  color: #757575;
+}
+
+a:hover{
+  color: #000000;
+}
 
 .oswald {
   font-family: 'Oswald', sans-serif;
