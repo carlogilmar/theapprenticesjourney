@@ -2,12 +2,16 @@
   background-color: #ffffff;
 }
 
+.taj_color{
+  color: #cc3f1cb5;
+}
+
 .font_header {
   color: #757575;
 }
 
 a:hover{
-  color: #000000;
+  color: #cc3f1cb5;
 }
 
 .oswald {
@@ -39,7 +43,7 @@ a:hover{
 }
 
 .carousel-item {
-  height: 100vh;
+  /*height: 100vh;*/
   min-height: 350px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
@@ -105,6 +109,7 @@ a:hover{
 
 .featurette-divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  background-color: #cc3f1cb5;
 }
 
 /* Thin out the marketing headings */
