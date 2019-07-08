@@ -1,3 +1,17 @@
+.row-striped:nth-of-type(odd){
+  background-color: #ffffff;
+  border-left: 4px #000000 solid;
+}
+
+.row-striped:nth-of-type(even){
+  background-color: #ffffff;
+  border-left: 4px #efefef solid;
+}
+
+.row-striped {
+    padding: 15px 0;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 200;
@@ -30,6 +44,11 @@ a:hover{
 
 .oswald {
   font-family: 'Oswald', sans-serif;
+}
+
+.oswald-calendar {
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
 }
 
 .lobster{
