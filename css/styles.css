@@ -1,3 +1,17 @@
+.lead {
+  font-size: 1.25rem;
+  font-weight: 200;
+}
+
+.lead_latin {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.30rem;
+}
+
+.lead_plus{
+  font-size: 1.40rem;
+}
+
 .nav_color{
   background-color: #ffffff;
 }
@@ -109,7 +123,7 @@ a:hover{
 
 .featurette-divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
-  background-color: #cc3f1cb5;
+  /*background-color: #cc3f1cb5;*/
 }
 
 /* Thin out the marketing headings */
