@@ -1,0 +1,74 @@
+{
+  "items": {
+    "0": {
+      "id": 0,
+      "type": "text",
+      "text": "Part 1 ",
+      "position": [
+        2150,
+        2290
+      ],
+      "dimensions": [
+        118,
+        57
+      ]
+    },
+    "1": {
+      "type": "text",
+      "text": "Part 2",
+      "position": [
+        2410,
+        2290
+      ],
+      "dimensions": [
+        108,
+        55
+      ],
+      "id": 1
+    },
+    "2": {
+      "type": "text",
+      "text": "Part 3",
+      "position": [
+        2630,
+        2280
+      ],
+      "dimensions": [
+        200,
+        100
+      ],
+      "id": 2
+    },
+    "3": {
+      "type": "file",
+      "path": "README.md",
+      "position": [
+        2120,
+        2500
+      ],
+      "dimensions": [
+        500,
+        360
+      ],
+      "block": {
+        "type": "file",
+        "id": "markdown-block",
+        "title": "Markdown block",
+        "description": "View and edit Markdown content",
+        "sandbox": false,
+        "entry": "blocks/file-blocks/markdown-edit/index.tsx",
+        "matches": [
+          "*.md",
+          "*.markdown",
+          "*.mdx",
+          "*"
+        ],
+        "example_path": "https://github.com/githubnext/blocks-tutorial/blob/main/README.md",
+        "owner": "githubnext",
+        "repo": "blocks-examples",
+        "key": "githubnext__blocks-examples__markdown-block"
+      },
+      "id": 3
+    }
+  }
+}
